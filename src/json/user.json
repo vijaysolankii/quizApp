@@ -1,0 +1,82 @@
+[  
+    
+        {
+            "userId" : 1,
+            "type" : "User",
+            "name": "Vijay",
+            "age": 22,
+            "gender": "male",
+            "email": "test@gmail.com",
+            "password": "test@123",
+            "birth_date": "12/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 2,
+            "type" : "Admin",
+            "name": "Vijay2",
+            "age": 21,
+            "gender": "male",
+            "email": "test2@gmail.com",
+            "password": "test@1234",
+            "birth_date": "13/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 3,
+            "type" : "User",
+            "name": "Vijay3",
+            "age": 23,
+            "gender": "male",
+            "email": "test243@gmail.com",
+            "password": "test@12345",
+            "birth_date": "14/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 4,
+            "type" : "User4",
+            "name": "Vijay",
+            "age": 24,
+            "gender": "male",
+            "email": "test@gmail4.com",
+            "password": "test@1237",
+            "birth_date": "17/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 5,
+            "type" : ["Admin","User"],
+            "name": "Vijay5",
+            "age": 25,
+            "gender": "male",
+            "email": "test@gmail5.com",
+            "password": "test@7",
+            "birth_date": "18/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 6,
+            "type" : "Admin",
+            "name": "Vijay6",
+            "age": 26,
+            "gender": "male",
+            "email": "test6@gmail.com",
+            "password": "test@6",
+            "birth_date": "15/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        },
+        {
+            "userId" : 7,
+            "type" : "User",
+            "name": "Vijay7",
+            "age": 25,
+            "gender": "male",
+            "email": "test2@gmail.com",
+            "password": "test@9",
+            "birth_date": "16/08/1998",
+            "profileImage": "https://picsum.photos/200/300"
+        }
+    
+    
+]
